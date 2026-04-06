@@ -1,4 +1,4 @@
-# 💰 Guia-de-Sobrevivencia-Saindo-do-Zero
+# 💰 Saindo-do-Zero
 
 **🧠 Link do Meu Notebook no NotebookLM**
 
